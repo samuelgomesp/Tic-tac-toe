@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Tic-Tac-Toe</h1>
+        </header>
+        <section id="insertName">
+            <h3>Insira o nome dos jogadores</h3>
+            <br>
+            <label for="player1">X</label>
+            <input type="text" name="player1" id="player1" placeholder="Nome do jogador 1">
+            <label for="player2">O</label>
+            <input type="text" name="player2" id="player2" placeholder="Nome do Jogador 2">
+            <br><br>
+            <button id="btnPlayer">Começar o Jogo</button>
+        </section>
+        <h2>Vez de: <span id="turnPlayer"></span></h2>
+        <div id="alternatives" class="cursor-pointer">
+            <button class="btnAl" data-value="0.0"></button>
+            <button class="btnAl" data-value="0.1"></button>
+            <button class="btnAl" data-value="0.2"></button>
+            <button class="btnAl" data-value="1.0"></button>
+            <button class="btnAl" data-value="1.1"></button>
+            <button class="btnAl" data-value="1.2"></button>
+            <button class="btnAl" data-value="2.0"></button>
+            <button class="btnAl" data-value="2.1"></button>
+            <button class="btnAl" data-value="2.2"></button>
+        </div>
+    </main>
+</body>
+</html>
