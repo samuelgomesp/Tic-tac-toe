@@ -5,7 +5,7 @@
 Este é um projeto no qual criei um jogo da velha ou tic-tac-toe, o jogo começa primeiramente inserindo o nome dos dois jogadores, o jogador número 1 clica no campo onde deseja marcar e assim o jogo segue alternando os jogadores, é mostrado o nome do jogador quando está em sua vez. 
 
 <div align="center">
-<img height="300" width="500" src="(https://github.com/user-attachments/assets/eefbc150-344c-492a-adb7-08a97783de78">
+<img height="300" width="600" src="https://github.com/user-attachments/assets/adfffcf2-6253-47d7-80b0-4e490b941410">
 </div>
 
 ## Tecnologias utilizadas 
