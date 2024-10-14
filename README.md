@@ -1,4 +1,4 @@
-# Projeto Jogo da Velha ou Tic-Tac-Toe
+# Jogo da Velha ou Tic-Tac-Toe
 
 ## Descrição
 
